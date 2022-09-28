@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zauverer/date-time-picker/static/css/main.98f784a6.css",
+    "main.js": "/Zauverer/date-time-picker/static/js/main.f553ca7e.js",
+    "index.html": "/Zauverer/date-time-picker/index.html",
+    "main.98f784a6.css.map": "/Zauverer/date-time-picker/static/css/main.98f784a6.css.map",
+    "main.f553ca7e.js.map": "/Zauverer/date-time-picker/static/js/main.f553ca7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f784a6.css",
+    "static/js/main.f553ca7e.js"
+  ]
+}
